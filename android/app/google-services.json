@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688118170909",
+    "project_id": "corruptioncontrol-db1c3",
+    "storage_bucket": "corruptioncontrol-db1c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688118170909:android:e1184364c6b9e5cf73cdf4",
+        "android_client_info": {
+          "package_name": "com.example.corruption_controlling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCadT5JTySDR-mN0znRByw0Z72yNUVT6UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
