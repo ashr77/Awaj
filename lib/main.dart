@@ -6,6 +6,11 @@ import 'screens/signup_screen.dart';
 import 'screens/signin_screen.dart';
 import 'screens/main_app_screen.dart';
 
+void main() {
+  print('Hello, World!');
+}
+
+
 void main() async {  WidgetsFlutterBinding.ensureInitialized();
 await Firebase.initializeApp();
 
